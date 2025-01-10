@@ -1,0 +1,18 @@
+{
+  "name": "cool-coffee-shops",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jacob Ilagan",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@react-google-maps/api": "^2.20.5",
+    "next": "^15.1.4",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}

@@ -76,7 +76,6 @@ MONGODB_URI=your_mongodb_uri_here
 - [ ] Set up initial seed data
 
 2. Create API Routes
-   z
 
 - [ ] GET /api/coffee-shops
 - [ ] GET /api/coffee-shops/[id]

@@ -60,8 +60,6 @@ MONGODB_URI=your_mongodb_uri_here
 
 ## Phase 1: Basic Map Implementation
 
-he
-
 - [ ] Create basic map component
 - [ ] Add sample coffee shop markers
 - [ ] Implement info windows
